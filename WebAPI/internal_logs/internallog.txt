@@ -1,0 +1,119 @@
+2023-07-19 13:58:51.3352 Info Message Template Auto Format enabled
+2023-07-19 13:58:51.4321 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 13:58:51.4587 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-19 14:02:34.5475 Info Message Template Auto Format enabled
+2023-07-19 14:02:34.6857 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 14:02:34.7403 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-19 14:38:40.0266 Info Message Template Auto Format enabled
+2023-07-19 14:38:40.1794 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 14:38:40.2125 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-19 14:42:24.4152 Info Message Template Auto Format enabled
+2023-07-19 14:42:24.5840 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 14:42:24.6287 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-19 14:42:44.0193 Info Message Template Auto Format enabled
+2023-07-19 14:42:44.0721 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 14:42:44.0895 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-19 15:18:35.2350 Info Message Template Auto Format enabled
+2023-07-19 15:18:35.4153 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 15:18:35.4685 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-19 15:19:44.9999 Info Message Template Auto Format enabled
+2023-07-19 15:19:45.0469 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 15:19:45.0644 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 09:58:03.3878 Info Message Template Auto Format enabled
+2023-07-20 09:58:03.6561 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 09:58:03.8134 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 10:08:28.6490 Info Message Template Auto Format enabled
+2023-07-20 10:08:28.9092 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 10:08:28.9652 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 10:17:54.8252 Info Message Template Auto Format enabled
+2023-07-20 10:17:55.0387 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 10:17:55.0686 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 10:22:08.0022 Info Message Template Auto Format enabled
+2023-07-20 10:22:08.1560 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 10:22:08.2037 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 10:23:00.2156 Info Message Template Auto Format enabled
+2023-07-20 10:23:00.3587 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 10:23:00.4282 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 11:00:24.9024 Info Message Template Auto Format enabled
+2023-07-20 11:00:25.1860 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 11:00:25.2642 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 14:47:14.5585 Info Message Template Auto Format enabled
+2023-07-20 14:47:14.6133 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 14:47:14.6344 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 14:53:46.9177 Info Message Template Auto Format enabled
+2023-07-20 14:53:47.2037 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 14:53:47.2437 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 15:14:48.7720 Info Message Template Auto Format enabled
+2023-07-20 15:14:49.2303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 15:14:49.2971 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 15:16:33.0693 Info Message Template Auto Format enabled
+2023-07-20 15:16:33.2548 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 15:16:33.3102 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 15:25:20.5996 Info Message Template Auto Format enabled
+2023-07-20 15:25:20.7394 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 15:25:20.7933 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 16:41:40.3546 Info Message Template Auto Format enabled
+2023-07-20 16:41:40.4250 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 16:41:40.4530 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 16:56:29.9660 Info Message Template Auto Format enabled
+2023-07-20 16:56:30.1562 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 16:56:30.2028 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-20 17:59:07.2390 Info Message Template Auto Format enabled
+2023-07-20 17:59:07.4144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 17:59:07.4445 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 09:33:45.9953 Info Message Template Auto Format enabled
+2023-07-21 09:33:46.1197 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 09:33:46.1441 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 09:41:43.2669 Info Message Template Auto Format enabled
+2023-07-21 09:41:43.5326 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 09:41:43.5780 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 10:08:52.6404 Info Message Template Auto Format enabled
+2023-07-21 10:08:52.7951 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 10:08:52.8469 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 10:13:52.9938 Info Message Template Auto Format enabled
+2023-07-21 10:13:53.1303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 10:13:53.1732 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 10:15:34.1607 Info Message Template Auto Format enabled
+2023-07-21 10:15:34.3829 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 10:15:34.4527 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 11:18:09.9113 Info Message Template Auto Format enabled
+2023-07-21 11:18:10.0472 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 11:18:10.0746 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 13:36:16.1107 Info Message Template Auto Format enabled
+2023-07-21 13:36:16.2002 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 13:36:16.2244 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 14:29:41.9411 Info Message Template Auto Format enabled
+2023-07-21 14:29:42.0622 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 14:29:42.0956 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 15:47:06.9960 Info Message Template Auto Format enabled
+2023-07-21 15:47:07.1517 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 15:47:07.1983 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 15:59:15.1692 Info Message Template Auto Format enabled
+2023-07-21 15:59:15.3190 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 15:59:15.3478 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-21 16:50:59.0045 Info Message Template Auto Format enabled
+2023-07-21 16:50:59.2592 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 16:50:59.3083 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-24 09:29:56.7326 Info Message Template Auto Format enabled
+2023-07-24 09:29:56.8474 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 09:29:56.8722 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-24 09:35:54.4586 Info Message Template Auto Format enabled
+2023-07-24 09:35:54.6193 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 09:35:54.6596 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-24 10:05:00.2580 Info Message Template Auto Format enabled
+2023-07-24 10:05:00.3644 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 10:05:00.3899 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-24 10:07:36.5675 Info Message Template Auto Format enabled
+2023-07-24 10:07:36.8167 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 10:07:36.9105 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-24 10:08:24.2891 Info AppDomain Shutting down. LogFactory closing...
+2023-07-24 10:08:24.3139 Info LogFactory has been closed.
+2023-07-24 10:53:07.0585 Info Message Template Auto Format enabled
+2023-07-24 10:53:07.1853 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 10:53:07.2173 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-24 11:02:42.8263 Info Message Template Auto Format enabled
+2023-07-24 11:02:42.9620 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 11:02:43.0183 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
+2023-07-28 16:02:01.8981 Info Message Template Auto Format enabled
+2023-07-28 16:02:02.2724 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-28 16:02:02.3745 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yunus\Desktop\bsStoreApp\WebAPI\nlog.config
